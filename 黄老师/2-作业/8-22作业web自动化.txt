@@ -16,10 +16,11 @@ github地址:https://github.com/nt1908/nt1908
 5、修改个人信息：名字，生日，地址等等全部信息;
 6、模拟发帖，内容为随时字符+时间戳;
 7、退出登录，关闭浏览器。
+8、以上结果均通过Python将结果截图保存下来。
 
 注意：如果出现无法登录，或者登录密码错误被锁定，请重新注册一个其它账户进行操作。
 
-Python + Selenium 
+Python + Selenium 截图实例：
 https://www.cnblogs.com/hong-fithing/p/9656221.html
 
 
